@@ -1,0 +1,30 @@
+{
+  "name": "css-comments-sublime-snippets",
+  "version": "0.1.0",
+  "description": "CSS comments snippets for Sublime Text",
+  "homepage": "https://github.com/brenopolanski/css-comments-sublime-snippets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brenopolanski/css-comments-sublime-snippets"
+  },
+  "keywords": [
+    "css",
+    "comments",
+    "sublime",
+    "snippets"
+  ],
+  "author": {
+    "name": "Breno Polanski",
+    "email": "breno.polanski@gmail.com",
+    "web": "http://brenopolanski.com",
+    "twitter": "brenopolanski"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brenopolanski/css-comments-sublime-snippets/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-lintspaces": "~0.5.1"
+  }
+}
