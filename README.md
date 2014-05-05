@@ -1,3 +1,9 @@
 # CSS Comments snippets
 
-CSS comments snippets for Sublime Text
+<img
+    src="https://raw.githubusercontent.com/brenopolanski/css-comments-sublime-snippets/gh-assets/css-comments-snippets.png"
+    alt="CSS Comments snippets"
+    align="right"
+/>
+
+CSS comments snippets for Sublime Text.
