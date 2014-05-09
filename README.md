@@ -122,7 +122,7 @@ For detailed changelog, see [Releases](https://github.com/brenopolanski/css-comm
 
 ## Credits
 
-
+Comment format based on [Idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://github.com/necolas).
 
 ## License
 
