@@ -14,6 +14,8 @@ Well commented code is extremely important. Take time to describe components, ho
 
 ## Snippets
 
+To trigger a comment just put a **c-** followed by it's name, like so:
+
 ![image snippets](https://raw.githubusercontent.com/brenopolanski/css-comments-sublime-snippets/gh-assets/snippets.gif)
 
 ## Basic Comment
