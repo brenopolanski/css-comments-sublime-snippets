@@ -14,6 +14,8 @@ Well commented code is extremely important. Take time to describe components, ho
 
 ## Snippets
 
+![image snippets](https://raw.githubusercontent.com/brenopolanski/css-comments-sublime-snippets/gh-assets/snippets.gif)
+
 ## Basic Comment
 
 **trigger:** c-basic⇥
