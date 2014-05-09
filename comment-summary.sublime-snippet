@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Description: Short description.
+ * Version: 1.0.0
+ * Last update: YYYY/MM/DD
+ * Author: User Name <username@gmail.com>
+ *
+ * Summary:
+ *
+ *	0. ELEMENT
+ *		- 0.1. TYPE ELEMENT
+ *		- 0.2. TYPE ELEMENT
+ *	1. ELEMENT
+ *		- 1.1. TYPE ELEMENT
+ *		- 1.2. TYPE ELEMENT
+ */
+
+/* ==========================================================================
+   0. ELEMENT
+   ========================================================================== */
+
+/* 0.1. TYPE ELEMENT
+   ========================================================================== */
+
+/* 0.2. TYPE ELEMENT
+   ========================================================================== */
+]]></content>
+	<tabTrigger>c-summary</tabTrigger>
+	<scope>source.css, source.scss, source.sass, source.less, source.styl</scope>
+	<description>Long Comment</description>
+</snippet>
