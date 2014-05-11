@@ -1,4 +1,4 @@
-# CSS Comments snippets
+# CSS Comments snippets [![Build Status](https://travis-ci.org/brenopolanski/css-comments-sublime-snippets.svg?branch=master)](https://travis-ci.org/brenopolanski/css-comments-sublime-snippets)
 
 <img
     src="https://raw.githubusercontent.com/brenopolanski/css-comments-sublime-snippets/gh-assets/css-comments-snippets.png"
