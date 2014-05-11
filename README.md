@@ -1,10 +1,6 @@
 # CSS Comments snippets [![Build Status](https://travis-ci.org/brenopolanski/css-comments-sublime-snippets.svg?branch=master)](https://travis-ci.org/brenopolanski/css-comments-sublime-snippets)
 
-<img
-    src="https://raw.githubusercontent.com/brenopolanski/css-comments-sublime-snippets/gh-assets/css-comments-snippets.png"
-    alt="CSS Comments snippets"
-    align="right"
-/>
+<img src="https://raw.githubusercontent.com/brenopolanski/css-comments-sublime-snippets/gh-assets/css-comments-snippets.png" alt="CSS Comments snippets" align="right" />
 
 CSS comments snippets for [Sublime Text](http://www.sublimetext.com/).
 
