@@ -8,7 +8,7 @@ Well commented code is extremely important. Take time to describe components, ho
 
 > Comment style should be simple and consistent within a single code base.
 
-To install through Package Control, search for **CSS Comments**. If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation). If you insist to not install it, you can download the package and put it manually inside your Pacakages directory. It should work but will not update automatically.
+To install through Package Control, search for [**CSS Comments**](https://sublime.wbond.net/packages/CSS%20Comments). If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation). If you insist to not install it, you can download the package and put it manually inside your Pacakages directory. It should work but will not update automatically.
 
 ## Snippets
 
