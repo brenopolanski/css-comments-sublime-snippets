@@ -11,6 +11,7 @@ Well commented code is extremely important. Take time to describe components, ho
 To install through Package Control, search for [**CSS Comments**](https://sublime.wbond.net/packages/CSS%20Comments). If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation). If you insist to not install it, you can download the package and put it manually inside your Pacakages directory. It should work but will not update automatically.
 
 ## Snippets
+works for Css/Less/Sass/Scss/Stylus & PHP
 
 To trigger a comment just put a **c-** followed by it's name, like so:
 
@@ -20,7 +21,7 @@ To trigger a comment just put a **c-** followed by it's name, like so:
 
 **trigger:** c-basic⇥
 
-```css
+```
 /* Basic comment */
 ```
 
@@ -28,7 +29,7 @@ To trigger a comment just put a **c-** followed by it's name, like so:
 
 **trigger:** c-long⇥
 
-```css
+```
 /*
  * Long comment
  */
@@ -38,7 +39,7 @@ To trigger a comment just put a **c-** followed by it's name, like so:
 
 **trigger:** c-section⇥
 
-```css
+```
 /* ==========================================================================
    Section comment block
    ========================================================================== */
@@ -48,7 +49,7 @@ To trigger a comment just put a **c-** followed by it's name, like so:
 
 **trigger:** c-subsection⇥
 
-```css
+```
 /* Sub-section comment block
    ========================================================================== */
 ```
@@ -57,7 +58,7 @@ To trigger a comment just put a **c-** followed by it's name, like so:
 
 **trigger:** c-multi⇥
 
-```css
+```
 /**
  * Short description using Doxygen-style comment format
  *
@@ -80,7 +81,7 @@ To trigger a comment just put a **c-** followed by it's name, like so:
 
 **trigger:** c-summary⇥
 
-```css
+```
 /**
  * Description: Short description.
  * Version: 1.0.0
