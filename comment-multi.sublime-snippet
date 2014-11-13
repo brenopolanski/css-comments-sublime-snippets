@@ -18,6 +18,6 @@
  */
 ]]></content>
 	<tabTrigger>c-multi</tabTrigger>
-	<scope>source.css, source.scss, source.sass, source.less, source.styl</scope>
+	<scope>source.css, source.scss, source.sass, source.less, source.styl, source.php</scope>
 	<description>Multiple Comment with TODO</description>
 </snippet>
