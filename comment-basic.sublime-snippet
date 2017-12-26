@@ -3,6 +3,6 @@
 /* ${1:comment} */
 ]]></content>
 	<tabTrigger>c-basic</tabTrigger>
-	<scope>source.css, source.scss, source.sass, source.less, source.styl, source.php</scope>
+	<scope>source.css, source.scss, source.sass, source.less, source.styl, source.stylus, source.php</scope>
 	<description>Basic Comment</description>
 </snippet>

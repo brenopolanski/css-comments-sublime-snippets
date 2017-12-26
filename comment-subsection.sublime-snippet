@@ -4,6 +4,6 @@
    ========================================================================== */
 ]]></content>
 	<tabTrigger>c-subsection</tabTrigger>
-	<scope>source.css, source.scss, source.sass, source.less, source.styl, source.php</scope>
+	<scope>source.css, source.scss, source.sass, source.less, source.styl, source.stylus, source.php</scope>
 	<description>Sub-section Comment</description>
 </snippet>
