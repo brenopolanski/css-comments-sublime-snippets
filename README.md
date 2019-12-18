@@ -130,4 +130,4 @@ Comment format based on [Idiomatic CSS](https://github.com/necolas/idiomatic-css
 
 ## License
 
-[MIT License](http://brenopolanski.mit-license.org/) © Breno Polanski
+[MIT License](https://brenopolanski.mit-license.org/) © Breno Polanski
